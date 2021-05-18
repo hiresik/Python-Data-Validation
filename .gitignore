@@ -1,0 +1,5 @@
+output
+nosetests.html
+nosetests.xml
+*.ipynb
+*.html
